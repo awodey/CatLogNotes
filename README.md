@@ -1,4 +1,3 @@
 # CatLogNotes
- Categorical Logic Notes
+ Course Notes for Categorical Logic (CMU 80-514/814)
  
- The notes for different sections are divided into separate files named catlogX.pdf.
